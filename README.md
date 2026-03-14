@@ -1,6 +1,6 @@
 # Maze Solver
 
-A simple Python maze generator and solver with a Tkinter visualization.
+A Python maze generator and solver with a Tkinter visualization.
 
 ## Features
 - Generates a random maze using recursive backtracking.
